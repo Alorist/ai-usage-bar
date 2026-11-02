@@ -1,0 +1,10 @@
+# build output
+build/
+dist/
+.venv-build/
+skin/AIUsageBar/@Resources/bin/
+__pycache__/
+
+# runtime data - contains your usage numbers
+skin/AIUsageBar/@Resources/data/
+*.log
